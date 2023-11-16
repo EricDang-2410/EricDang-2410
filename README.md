@@ -1,5 +1,7 @@
-### Hi there 👋
+## Welcome 👋
 
+
+I'm Eric , Learning and conquering difficulties are my specialties.
 <!--
 **EricDang-2410/EricDang-2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
